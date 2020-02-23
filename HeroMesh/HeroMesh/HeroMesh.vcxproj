@@ -124,8 +124,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Common.hpp" />
+    <ClInclude Include="KD_Tree.hpp" />
     <ClInclude Include="Matrix3x3.hpp" />
     <ClInclude Include="Matrix3x4.hpp" />
+    <ClInclude Include="Mesh.hpp" />
     <ClInclude Include="MultiViewParams.hpp" />
     <ClInclude Include="OrientedPoint.hpp" />
     <ClInclude Include="Pixel.hpp" />
